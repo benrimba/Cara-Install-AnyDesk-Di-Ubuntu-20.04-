@@ -1,7 +1,7 @@
 # Cara Install AnyDesk Di Ubuntu 20.04
 ## Langkah 1: Perbarui Sistem Ubuntu
-```sudo apt update```
-```sudo apt -y upgrade [optional]```
+#```sudo apt update```
+#```sudo apt -y upgrade [optional]```
 ## Langkah 2: Tambahkan repositori AnyDesk
 ```wget -qO - https://keys.anydesk.com/repos/DEB-GPG-KEY | sudo apt-key add -```
 Kemudian tambahkan konten repositori AnyDesk ke sistem Ubuntu Anda.
